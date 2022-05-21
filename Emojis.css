@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    border-style: solid;
+    border-bottom-color: gray;
+}
+
+.topnav a {
+    float: left;
+    padding: 14px 16px;
+}
+
+.topnav a.nav-right {
+    float: right;
+    background-color: aqua;
+}
